@@ -1,0 +1,23 @@
+<link rel = "stylesheet" href = "style.txt">
+<div id= "header">
+Сайт группы МТ-550 
+</div>
+<div id = "container">
+<div id = "nav">
+<ul>
+<li><a href="index.html">Информация </a></li>
+<li><a href="page1.html"> Список группы </a></li>
+<li> Нормативные документы >>> </li>
+</ul>
+</div>
+<div id = "content">
+<p><h2>Ссылки на документы:</h2></p>
+<ul>
+ <li><a href="doc1.doc">Документ 1</a></li>
+ <li><a href="doc2.doc">Документ 2</a></li>
+</ul>
+</div>
+</div>
+<div id = "footer">
+2010-2015
+</div>
