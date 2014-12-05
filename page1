@@ -1,0 +1,41 @@
+<link rel = "stylesheet" href = "style.txt">
+<div id= "header">
+Сайт группы МТ-550 
+</div>
+<div id = "container">
+<div id = "nav">
+<ul>
+<li><a href="index.html"> Информация </a></li>
+<li>Список группы >>> </li>
+<li><a href="page2.html"> Нормативные документы </a></li>
+</ul>
+</div>
+<div id = "content">
+<p> <h2> Список группы: </h2></p>
+<table border="1" cellspacing="0">
+<tr>
+<th> № </th>
+<th> ФИО </th>
+</tr>
+<tr>
+<td>1</td>
+<td>Аплеснина Н.С.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Бутина Е.В.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Вершинина А.А.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Иванова Н.А.</td>
+</tr>
+</table>
+</div>
+</div>
+<div id = "footer">
+2010-2015
+</div>
